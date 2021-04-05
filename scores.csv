@@ -1,4 +1,4 @@
-School ID,School Name,Borough,Building Code,Street Address,City,State,Zip Code,Latitude,Longitude,Phone Number,Start Time,End Time,Student Enrollment,Percent White,Percent Black,Percent Hispanic,Percent Asian,Average Score (SAT Math),Average Score (SAT Reading),Average Score (SAT Writing),Percent Tested
+School ID,School Name,Borough,Building Code,Street Address,City,State,Zip Code,Latitude,Longitude,Phone Number,Start Time,End Time,enrollment,Percent White,Percent Black,Percent Hispanic,Percent Asian,avg_Math,Average Score (SAT Reading),Average Score (SAT Writing),Percent Tested
 01M539,"New Explorations into Science, Technology and Math High School",Manhattan,M022,111 Columbia Street,Manhattan,NY,10002,40.71873,-73.97943,212-677-5190,8:15 AM,4:00 PM,1735,28.60%,13.30%,18.00%,38.50%,657,601,601,91.00%
 02M294,Essex Street Academy,Manhattan,M445,350 Grand Street,Manhattan,NY,10002,40.71687,-73.98953,212-475-4773,8:00 AM,2:45 PM,358,11.70%,38.50%,41.30%,5.90%,395,411,387,78.90%
 02M308,Lower Manhattan Arts Academy,Manhattan,M445,350 Grand Street,Manhattan,NY,10002,40.71687,-73.98953,212-505-0143,8:30 AM,3:00 PM,383,3.10%,28.20%,56.90%,8.60%,418,428,415,65.10%
