@@ -1,0 +1,31 @@
+Year,Datetime,Stage,Home Team Name,Home Team Goals,Away Team Goals,Away Team Name,MatchID,Home Team Initials,Away Team Initials
+2014,28 Jun 2014 - 13:00 ,Round of 16,Brazil,1,1,Chile,300186487,BRA,CHI
+2014,28 Jun 2014 - 17:00 ,Round of 16,Colombia,2,0,Uruguay,300186491,COL,URU
+2014,30 Jun 2014 - 13:00 ,Round of 16,France,2,0,Nigeria,300186462,FRA,NGA
+2014,30 Jun 2014 - 17:00 ,Round of 16,Germany,2,1,Algeria,300186460,GER,ALG
+2014,04 Jul 2014 - 17:00 ,Quarter-finals,Brazil,2,1,Colombia,300186461,BRA,COL
+2014,04 Jul 2014 - 13:00 ,Quarter-finals,France,0,1,Germany,300186485,FRA,GER
+2014,08 Jul 2014 - 17:00 ,Semi-finals,Brazil,1,7,Germany,300186474,BRA,GER
+2014,13 Jul 2014 - 16:00 ,Final,Germany,1,0,Argentina,300186501,GER,ARG
+2014,09 Jul 2014 - 17:00 ,Semi-finals,Netherlands,0,0,Argentina,300186490,NED,ARG
+2014,05 Jul 2014 - 17:00 ,Quarter-finals,Netherlands,0,0,Costa Rica,300186488,NED,CRC
+2014,05 Jul 2014 - 13:00 ,Quarter-finals,Argentina,1,0,Belgium,300186504,ARG,BEL
+2014,29 Jun 2014 - 13:00 ,Round of 16,Netherlands,2,1,Mexico,300186508,NED,MEX
+2014,29 Jun 2014 - 17:00 ,Round of 16,Costa Rica,1,1,Greece,300186459,CRC,GRE
+2014,01 Jul 2014 - 13:00 ,Round of 16,Argentina,1,0,Switzerland,300186503,ARG,SUI
+2014,01 Jul 2014 - 17:00 ,Round of 16,Belgium,2,1,USA,300186497,BEL,USA
+2014,28 Jun 2014 - 13:00 ,Round of 16,Brazil,1,1,Chile,300186487,BRA,CHI
+2014,28 Jun 2014 - 17:00 ,Round of 16,Colombia,2,0,Uruguay,300186491,COL,URU
+2014,29 Jun 2014 - 13:00 ,Round of 16,Netherlands,2,1,Mexico,300186508,NED,MEX
+2014,29 Jun 2014 - 17:00 ,Round of 16,Costa Rica,1,1,Greece,300186459,CRC,GRE
+2014,30 Jun 2014 - 13:00 ,Round of 16,France,2,0,Nigeria,300186462,FRA,NGA
+2014,30 Jun 2014 - 17:00 ,Round of 16,Germany,2,1,Algeria,300186460,GER,ALG
+2014,01 Jul 2014 - 13:00 ,Round of 16,Argentina,1,0,Switzerland,300186503,ARG,SUI
+2014,01 Jul 2014 - 17:00 ,Round of 16,Belgium,2,1,USA,300186497,BEL,USA
+2014,04 Jul 2014 - 13:00 ,Quarter-finals,France,0,1,Germany,300186485,FRA,GER
+2014,04 Jul 2014 - 17:00 ,Quarter-finals,Brazil,2,1,Colombia,300186461,BRA,COL
+2014,05 Jul 2014 - 13:00 ,Quarter-finals,Argentina,1,0,Belgium,300186504,ARG,BEL
+2014,05 Jul 2014 - 17:00 ,Quarter-finals,Netherlands,0,0,Costa Rica,300186488,NED,CRC
+2014,08 Jul 2014 - 17:00 ,Semi-finals,Brazil,1,7,Germany,300186474,BRA,GER
+2014,09 Jul 2014 - 17:00 ,Semi-finals,Netherlands,0,0,Argentina,300186490,NED,ARG
+2014,13 Jul 2014 - 16:00 ,Final,Germany,1,0,Argentina,300186501,GER,ARG
